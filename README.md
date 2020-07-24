@@ -8,13 +8,6 @@ With a degree in computer engineering, I am passionate about what I do.
 
 Be sure to check out my [portfolio](https://ericmatte.me/portfolio).
 
-## Some of my projects
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ericmatte&repo=HomeAutomation)](https://github.com/ericmatte/HomeAutomation)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ericmatte&repo=ad-media-lights-sync)](https://github.com/ericmatte/ad-media-lights-sync)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ericmatte&repo=genetic-algorithm-resolver)](https://github.com/ericmatte/genetic-algorithm-resolver)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ericmatte&repo=i18n-typedef)](https://github.com/ericmatte/i18n-typedef)
-
 <!--
 **ericmatte/ericmatte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
