@@ -1,8 +1,12 @@
-### Hi there, I'm Eric 👋
+<div align="left">
+    <img src="animated.svg" width="600" height="100%">
+</div>
 
 I’m always seeking for new goals. I give a great interest on the quality of my work and I always want to learn more.
 
 With a degree in computer engineering, I am passionate about what I do.
+
+<br/>
 
 ![Eric's github stats](https://github-readme-stats.vercel.app/api?username=ericmatte&show_icons=true&hide=commits)
 
