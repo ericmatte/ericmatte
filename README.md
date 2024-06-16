@@ -8,8 +8,6 @@ With a degree in computer engineering, I am passionate about what I do.
 
 <br/>
 
-![Eric's github stats](https://github-readme-stats.vercel.app/api?username=ericmatte&show_icons=true&hide=commits)
-
 Be sure to check out my [portfolio](https://ericmatte.me/portfolio).
 
 <!--
