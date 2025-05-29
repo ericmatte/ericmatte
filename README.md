@@ -6,10 +6,6 @@ I’m always seeking for new goals. I give a great interest on the quality of my
 
 With a degree in computer engineering, I am passionate about what I do.
 
-<br/>
-
-Be sure to check out my [portfolio](https://ericmatte.me/portfolio).
-
 <!--
 **ericmatte/ericmatte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
